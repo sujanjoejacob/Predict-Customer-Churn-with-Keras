@@ -40,6 +40,7 @@
 * ### F1 SCORE
 
 * ### Explain The Model With LIME
+![alt text](https://blogs.rstudio.com/tensorflow/posts/2018-01-11-keras-customer-churn/images/figure-html/unnamed-chunk-41-1.png)
 
 * ### FEATURE IMPORTANCE VISUALIZATION
-![alt text](https://blogs.rstudio.com/tensorflow/posts/2018-01-11-keras-customer-churn/images/figure-html/unnamed-chunk-41-1.png)
+![alt text](https://blogs.rstudio.com/tensorflow/posts/2018-01-11-keras-customer-churn/images/figure-html/unnamed-chunk-44-1.png)
