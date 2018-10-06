@@ -1,8 +1,10 @@
-# Predict-Customer-Churn-with-Keras
-Using Keras to predict customer churn based on the IBM Watson Telco Customer Churn dataset.
+# Predict Customer Churn with Keras
 
-Dataset: 
-o Customers who left within the last month: The column is called Churn.
+###### Data Description: 
+Observations: 7,043
+Variables: 21
+
+o Customers who left within the last month: The column is called **Churn**.
 
 o Services that each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
 
