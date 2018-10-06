@@ -12,7 +12,6 @@ Split Into Train/Test Sets
 ## Exploration: 
 
 ### DISCRETIZE THE “TENURE” FEATURE
-![alt text](https://blogs.rstudio.com/tensorflow/posts/2018-01-11-keras-customer-churn/images/figure-html/unnamed-chunk-9-1.png)
 
 ### TRANSFORM THE “TOTALCHARGES” FEATURE
 
@@ -24,23 +23,23 @@ Split Into Train/Test Sets
 * STEP 2: BAKING WITH YOUR RECIPE
 * STEP 3: DON’T FORGET THE TARGET
 
-### Building A Deep Learning Model
+* ### Building A Deep Learning Model
 
-### Making Predictions
+* ### Making Predictions
 
-### Inspect Performance With Yardstick
+* ### Inspect Performance With Yardstick
 
-### CONFUSION TABLE
+* ### Confusion Table
 
-### ACCURACY
+* ### Accuracy
 
-### AUC
+* ### AUC
 
-### PRECISION AND RECALL
+* ### Precision and Recall
 
-### F1 SCORE
+* ### F1 SCORE
 
-### Explain The Model With LIME
+* ### Explain The Model With LIME
 
-### FEATURE IMPORTANCE VISUALIZATION
+* ### FEATURE IMPORTANCE VISUALIZATION
 ![alt text](https://blogs.rstudio.com/tensorflow/posts/2018-01-11-keras-customer-churn/images/figure-html/unnamed-chunk-41-1.png)
