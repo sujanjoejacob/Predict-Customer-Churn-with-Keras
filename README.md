@@ -1,13 +1,13 @@
 # Predict Customer Churn with Keras
 
 * ## Data Description: 
-Observations: 7,043 | Variables: 21
+  Observations: 7,043 | Variables: 21
 
 ![alt text](https://blogs.rstudio.com/tensorflow/posts/2018-01-11-keras-customer-churn/images/figure-html/unnamed-chunk-9-1.png)
 
 
 * ## Preprocess Data
-Split Into Train/Test Sets
+  Split Into Train/Test Sets
 
 * ## Exploration: 
 
