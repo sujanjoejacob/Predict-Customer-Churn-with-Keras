@@ -26,21 +26,21 @@ Split Into Train/Test Sets
 
 ### Building A Deep Learning Model
 
-## Making Predictions
+### Making Predictions
 
-## Inspect Performance With Yardstick
+### Inspect Performance With Yardstick
 
-## CONFUSION TABLE
+### CONFUSION TABLE
 
-## ACCURACY
+### ACCURACY
 
-## AUC
+### AUC
 
-## PRECISION AND RECALL
+### PRECISION AND RECALL
 
-## F1 SCORE
+### F1 SCORE
 
-## Explain The Model With LIME
+### Explain The Model With LIME
 
-## FEATURE IMPORTANCE VISUALIZATION
+### FEATURE IMPORTANCE VISUALIZATION
 ![alt text](https://blogs.rstudio.com/tensorflow/posts/2018-01-11-keras-customer-churn/images/figure-html/unnamed-chunk-41-1.png)
